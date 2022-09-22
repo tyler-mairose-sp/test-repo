@@ -2,3 +2,10 @@ labelPRBasedOnFilePath:
   # Add 'label1' to any changes within 'example' folder or any subfolders
   ReadME Man:
     - README.md
+addReviewerBasedOnLabel:
+  ReadMe:
+    - tyler-mairose-sp
+reviewerFlags:
+  addReviewerBasedOnLabel: true
+  addDefaultReviewers: false
+  defaultReviewers: []
