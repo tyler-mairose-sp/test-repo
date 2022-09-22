@@ -3,8 +3,13 @@ labelPRBasedOnFilePath:
   ReadME Man:
     - README.md
 addReviewerBasedOnLabel:
-  ReadMe:
+  defaultReviewers:
     - tyler-mairose-sp
+  labels:
+    ReadMe:
+      - jordan-violet-sp
+    documentation:
+      - colin-mckibben-sp
 reviewerFlags:
   addReviewerBasedOnLabel: true
   addDefaultReviewers: false
