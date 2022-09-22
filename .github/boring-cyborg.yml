@@ -10,7 +10,3 @@ addReviewerBasedOnLabel:
       - jordan-violet-sp
     documentation:
       - colin-mckibben-sp
-reviewerFlags:
-  addReviewerBasedOnLabel: true
-  addDefaultReviewers: false
-  defaultReviewers: []
