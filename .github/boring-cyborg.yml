@@ -5,7 +5,6 @@ labelPRBasedOnFilePath:
 addReviewerBasedOnLabel:
   defaultReviewers:
     - tyler-mairose-sp
-    - philip-ellis-sp
   labels:
     ReadMe:
       - jordan-violet-sp
